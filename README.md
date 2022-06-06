@@ -9,8 +9,9 @@
 ```javascript
 const Jalberth = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python,],
-  tools: [Django,Node],
+  code: [Javascript,Python, HTML, CSS],
+  tools: [Django,Node, Boostrap], 
+  os:[Linux, Windows] 
  challenge: "I am doing the #100DaysOfCode challenge focused on Data Science"
 }
 ```
