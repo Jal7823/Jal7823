@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jalberth M. <img src="https://postimg.cc/CZ8tyWps" width="50"></h2>
-<img align='right' src="https://postimg.cc/CZ8tyWps" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://i.postimg.cc/QxLSzMDZ/IMG-20220511-165948-358-modified.png" width="230">
+<p><em>Coursera <a href="http://www.unb.br">Data Sciences</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
