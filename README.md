@@ -1,4 +1,4 @@
-<h2> Hi, I'm Jalberth M. <img src="https://postimg.cc/CZ8tyWps" width="50"></h2>
+<h2> Hi, I'm Jalberth M. </h2>
 <img align='right' src="https://i.postimg.cc/SQTMDTRh/IMG-20220511-165948-358-modified.png" width="230">
 <p><em>Coursera <a href="http://www.unb.br">Data Science</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
