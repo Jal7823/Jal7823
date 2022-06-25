@@ -4,11 +4,10 @@
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Jalberth = {
-  pronouns: "he" | "him",
   code: [Javascript,Python, HTML, CSS],
   tools: [Django,Node, Boostrap], 
   os:[Linux, Windows] 
