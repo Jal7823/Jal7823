@@ -20,4 +20,3 @@ const Jalberth = {
 
 ---
 
-⭐️ From [@Jal7823](https://github.com/Jal7283)
