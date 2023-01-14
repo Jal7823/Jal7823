@@ -1,4 +1,4 @@
-# 👋: Hi:
+# 👋 Hi...
 
 I'm back-end developer in python, with 3 years of experience in the development of API Rest and web pages, with frameworks like Django and Flask, I always tried to build projects efficiently and simpliest as posssible, I needed to show an Interface to my backend projects and this situation allowed me to learn HTML 5,CSS 3,Node Js and JavaScript, I use Asana, Jira and slack to organize my projects, I really enjoy it, I invite you to check my portfolio and feel free to contact me.
 
