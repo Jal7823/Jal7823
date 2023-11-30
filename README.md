@@ -10,7 +10,7 @@ I am a passionate backend developer with experience developing web applications 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jal7823) 
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white&color=red)](https://linkedin.com/in/Jal7823) 
 
-# 💻 Tech Stack:
+# 💻 Stack:
 
 ## Python:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=F7CC40) 
