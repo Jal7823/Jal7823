@@ -7,7 +7,7 @@ I am a passionate backend developer with experience developing web applications 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jal7823) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jal7823](https://www.linkedin.com/in/jalberth-mosquera/)) 
 [![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=gmail&logoColor=white&color=red)](https://linkedin.com/in/Jal7823) 
 
 # 💻 Stack:
